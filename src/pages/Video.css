@@ -1,0 +1,9 @@
+.Video{
+    background-color: royalblue;
+    height: 100%;
+    width: 100%;
+    scroll-snap-align: start;
+}
+.video__player{
+
+}
