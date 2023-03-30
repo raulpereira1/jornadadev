@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <div className="app__videos">
      <Videos/>
+     <Videos/>
+     <Videos/>
+     <Videos/>
+     
      
       </div>
     </div>
