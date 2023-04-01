@@ -1,13 +1,15 @@
 .VideoSideBar{
     position: absolute;
-    top: 40%;
+    top: 50%;
     right: 25px;
     color:white;
-    border: 1px solid red;
+    
+    
     
 }
 
 .VideoSideBar__options{
-    border: 1px solid blue;
+    
+    padding: 5px
 }
 
