@@ -24,3 +24,8 @@ html{
 .app__videos::-webkit-scrollbar{
   display: none;
 }
+
+.app__videos{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
