@@ -1,15 +1,20 @@
-.VideoSideBar{
+.VideoSideBar {
     position: absolute;
     top: 50%;
     right: 25px;
-    color:white;
-    
-    
-    
+    color: white;
+
+
+
 }
 
-.VideoSideBar__options{
-    
+.VideoSideBar__options {
+
     padding: 5px
 }
 
+@media only screen and(max-width: 440px) {
+    .VideoSideBar {
+        top: 46%;
+    }
+}
